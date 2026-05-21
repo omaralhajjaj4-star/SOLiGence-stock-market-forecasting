@@ -221,6 +221,9 @@ These signals are designed for decision-support and should not be interpreted as
 
 ## Project Structure
 
+## Project Structure
+
+```text
 SOLiGence-IEAP/
 │
 ├── streamlit_app.py              # Main Streamlit application
